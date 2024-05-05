@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rgarciajimchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-05T18:35:49.308337+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 6ba6b03ecfd52f9a040c63366f3a93173cc029e45f7ddb82f59a962953b4723e
+    name: rgarciajimchart
+    type: application
+    urls:
+    - charts/rgarciajimchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-05T18:35:49.3056073+02:00"
