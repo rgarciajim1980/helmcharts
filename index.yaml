@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   rgarciajimchart:
   - apiVersion: v2
-    appVersion: 1.18.2
-    created: "2024-05-08T14:59:22.184871+02:00"
+    appVersion: 1.18.0
+    created: "2024-05-08T15:06:59.5288591+02:00"
     description: A Helm chart for Kubernetes
-    digest: 14155dd2b1df58ec4f0424ec6f75372aa7b18d1f1b64d96d078f509122eeb969
+    digest: 27c7338be5cad301c4c6622eeb6e6a4cf7ddd8ec36ceb3430c61a590b96ea2b0
     name: rgarciajimchart
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 1.18.0
-    created: "2024-05-08T14:59:22.1830581+02:00"
+    created: "2024-05-08T15:06:59.5265744+02:00"
     description: A Helm chart for Kubernetes
     digest: ffa81362462ea274fa2720cdd30a235861e566ee3d5829fd02404c7a11b49db4
     name: rgarciajimchart
@@ -23,7 +23,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2024-05-08T14:59:22.1805629+02:00"
+    created: "2024-05-08T15:06:59.5243151+02:00"
     description: A Helm chart for Kubernetes
     digest: d4c8e167ff5235cce8fa9a296f4a222fac0ea8c6fdff19f94283a4d44bbcf45f
     name: rgarciajimchart
@@ -33,7 +33,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-08T14:59:22.1779073+02:00"
+    created: "2024-05-08T15:06:59.5226129+02:00"
     description: A Helm chart for Kubernetes
     digest: 6ba6b03ecfd52f9a040c63366f3a93173cc029e45f7ddb82f59a962953b4723e
     name: rgarciajimchart
@@ -41,4 +41,4 @@ entries:
     urls:
     - charts/rgarciajimchart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-08T14:59:22.1754897+02:00"
+generated: "2024-05-08T15:06:59.5191829+02:00"
